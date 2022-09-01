@@ -14,12 +14,12 @@
 }
 body {
   background: #212121;
-  color: #48b3e1;
+  color: #913124;
   font-family: "Kulim Park";
   margin: 0;
 }
 body a {
-  color: #48b3e1;
+  color: #913124;
   text-decoration: none;
 }
 
@@ -29,14 +29,6 @@ body a {
 }
 .navbar .container {
   padding-left: 5%;
-}
-.navbar .container .logo {
-  display: inline-block;
-  height: 1.5em;
-  position: relative;
-  bottom: 0.15em;
-  vertical-align: middle;
-  margin-right: 1em;
 }
 .navbar .container .name {
   display: inline-block;
@@ -79,9 +71,5 @@ body a {
 .content .cta ul li {
   list-style-type: none;
 }
-.content .cta ul li .yt1 {
-  color: red;
-}
-.content .cta ul li .yt2 {
-  color: white;
-}/*# sourceMappingURL=main.css.map */
+
+/*# sourceMappingURL=main.css.map */
