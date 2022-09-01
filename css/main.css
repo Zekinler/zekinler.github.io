@@ -25,10 +25,10 @@ body a {
 
 .navbar {
   background: #2e2e2e;
-  padding: 0.2em;
+  padding: 0.4em;
 }
 .navbar .container {
-  padding-left: 5%;
+  padding-left: 1%;
 }
 .navbar .container .name {
   display: inline-block;
