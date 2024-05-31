@@ -1,0 +1,19 @@
+{
+  "name": "zbg",
+  "collaborators": [
+    "Zekinler <zekinler7@gmail.com>"
+  ],
+  "description": "block game",
+  "version": "0.0.1",
+  "license": "MIT",
+  "files": [
+    "zbg_bg.wasm",
+    "zbg.js",
+    "zbg.d.ts"
+  ],
+  "module": "zbg.js",
+  "types": "zbg.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
